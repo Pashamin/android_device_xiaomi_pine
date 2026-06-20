@@ -1,2 +1,0 @@
-type hal_lineage_livedisplay_server, domain;
-typeattribute hal_lineage_livedisplay_qti hal_lineage_livedisplay_server;
